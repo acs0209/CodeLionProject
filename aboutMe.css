@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+* {
+    font-family: 'Montserrat';
+}
+
+body, h1, h2 {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    min-width: fit-content;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.main_content {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+.info {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.person {
+    font-size: 20px;
+    font-weight: bold;
+}
+.icons-person {
+    width: 35px;
+    height: 35px;
+}
+
+
+
+.about {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icons-about {
+    width: 35px;
+    height: 35px;
+}
+
+.tools {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icons-tools {
+    width: 35px;
+    height: 35px;
+}
+
+
+.programing-img-wrap {
+    margin-bottom: 20px;
+}
+.programing-img {
+    width: 35px;
+    height: 35px;
+}
+
+
+
+
+
+.sns {
+    font-size: 20;
+    font-weight: bold;
+}
+.icons-stars {
+    width: 35px;
+    height: 35px;
+}
+
+.sns-wrap {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.sns-img {
+    width: 20px;
+    height: 20px;
+}
+
+.account{
+    font-weight: italic;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 610px;
+    text-align: center;
+    background-color: #37d1d3;
+    padding: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-weight: bold;
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 610px;
+    height: 30px;
+    text-align: center;
+    background-color: #37d1d3;
+    padding: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-weight: bold;
+}
